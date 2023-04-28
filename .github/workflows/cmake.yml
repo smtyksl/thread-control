@@ -28,10 +28,12 @@ jobs:
         cd build
         cmake ..
         make
+        mkdir -p release
+        cp -r lib/ examples/ ../headers/ threadcontroller.h release
     - name: Download a Build Artifact
       uses: actions/download-artifact@v2.1.1
       with:
         # Artifact name
         name: v0.0.1
         # Destination path
-        path: /home/runner/work/thread-control/thread-control/build
+        path: /home/runner/work/thread-control/thread-control/build/release
