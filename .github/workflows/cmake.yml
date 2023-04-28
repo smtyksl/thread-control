@@ -24,7 +24,7 @@ jobs:
     - name: Build
       # Build your program with the given configuration
       run:  |
-        mkdir build
+        mkdir -p build
         cd build
         cmake ..
         make
