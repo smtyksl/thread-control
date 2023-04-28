@@ -21,10 +21,4 @@ jobs:
         cmake ..
         make
         mkdir -p release
-        cp -r lib/ examples/ ../headers/threadcontroller.h release
-        uses: actions/upload-artifact@v3
-        with:
-        # Artifact name
-        name: v0.0.1
-        # Destination path
-        path: /home/runner/work/thread-control/thread-control/build/release
+       
