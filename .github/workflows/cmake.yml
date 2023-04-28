@@ -29,7 +29,7 @@ jobs:
         cmake ..
         make
         mkdir -p release
-        cp -r lib/ examples/ ../headers/ threadcontroller.h release
+        cp -r lib/ examples/ ../headers/threadcontroller.h release
     - name: Download a Build Artifact
       uses: actions/download-artifact@v2.1.1
       with:
