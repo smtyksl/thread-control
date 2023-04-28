@@ -61,7 +61,7 @@ int main() {
 
 # Header-only Library
 
-ThreadController is also available as a header-only library. You can download the `threadcontroller.hpp` file and add it to your project directly.
+ThreadController is also available as a header-only library. You can download the [threadcontroller.hpp](https://github.com/smtyksl/thread-control/blob/master/headers/threadcontroller.hpp)  file and add it to your project directly.
 
 ## GCC Version
 
