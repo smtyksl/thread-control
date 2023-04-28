@@ -59,6 +59,10 @@ int main() {
 
 ```
 
+# Header-only Library
+
+ThreadController is also available as a header-only library. You can download the `threadcontroller.hpp` file and add it to your project directly.
+
 ## GCC Version
 
 ThreadController is written to be compliant with C++11 standards. Therefore, it requires GCC 4.8 or later.
