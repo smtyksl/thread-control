@@ -2,6 +2,8 @@
 
 ThreadController is a C++11 compliant wrapper for `std::thread`. The ThreadController class can be used to control the state of a running thread. It can also be used to change the execution speed and pause time of the thread.
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)	![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 # Build Status
 
 [![CMake](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml/badge.svg)](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml)
