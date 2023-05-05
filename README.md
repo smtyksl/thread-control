@@ -4,11 +4,7 @@ ThreadController is a C++11 compliant wrapper for `std::thread`. The ThreadContr
 
 # Build Status
 
-
-```markdown
-[![CMake](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml/badge.svg?branch=master)](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml)
-```
-
+[![CMake](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml/badge.svg)](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml)
 
 ## Dependencies
 
