@@ -6,12 +6,7 @@ ThreadController is a C++11 compliant wrapper for `std::thread`. The ThreadContr
 
 
 ```markdown
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-```
-
-
-```markdown
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+[![CI](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml/badge.svg)](https://github.com/smtyksl/thread-control/actions/workflows/cmake.yml)
 ```
 
 
